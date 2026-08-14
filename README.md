@@ -44,13 +44,13 @@ The cold sales gas loops back through E-100 to pre-cool the incoming dry gas, th
 
 ### Hydrate Check — Expanded Gas
 
-![Hydrate Check](./hydrate_check.png)
+![Hydrate Check](./case_study_results.png)
 
 Result: **Will NOT Form** — confirmed safe operating conditions after JT expansion. Used Ng & Robinson model.
 
 ### Sensitivity Analysis — What happens when the feed gets warmer?
 
-![Case Study Results](./case_study_results.png)
+![Case Study Results](./hydrate_check.png)
 
 | Feed Temp (°C) | NGL (kgmol/hr) | Water in Gas (mg/Nm³) | Dry Gas Temp (°C) |
 |---|---|---|---|
