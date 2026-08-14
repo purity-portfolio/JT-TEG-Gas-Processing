@@ -46,7 +46,7 @@ The cold sales gas loops back through E-100 to pre-cool the incoming dry gas, th
 
 ![Hydrate Check](./case_study_results.png)
 
-Result: **Will NOT Form** — confirmed safe operating conditions after JT expansion. Used Ng & Robinson model.
+Result: **Will NOT Form**; confirmed safe operating conditions after JT expansion. Used Ng & Robinson model.
 
 ### Sensitivity Analysis — What happens when the feed gets warmer?
 
