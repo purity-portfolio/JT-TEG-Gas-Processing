@@ -63,7 +63,3 @@ A 15°C rise in feed temperature caused NGL recovery to fall by **~76%** and wat
 
 ---
 
-## What I Learned
-
-- The JT valve drops pressure, not temperature directly, the temperature drop is a consequence of the feed conditions. Warmer feed = warmer expanded gas = less condensation.
-- Checking for hydrate formation before calling a design complete is not optional, the temperature after a JT valve can easily fall into the hydrate zone.
